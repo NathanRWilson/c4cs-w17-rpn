@@ -5,7 +5,7 @@ OPERATORS = {
 	'+': operator.add,
 	'-': operator.sub,
 	'/': operator.truediv,
-	
+	'^': operator.pow,
 }
 
 def calculate(arg):
